@@ -1,6 +1,6 @@
 {
-  "versionCode": 122,
-  "versionName": "1.1.122",
+  "versionCode": 123,
+  "versionName": "1.1.123",
   "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal.apk",
-  "releaseNotes": "JustSports kategorisi duzeltildi: mac sayfasi WebView icinde aciliyor, embedded iframe otomatik oynatma aktif."
+  "releaseNotes": "JustSports yenilendi: Tumu/Futbol/TV sekmeleri eklendi, sag ustte Yenile butonu, Tumu sekmesi mac+kanal birlestik liste gosteriyor. Indirme sonrasi 'Download alanina indirildi' mesaji ile kurulum kolaylastirildi."
 }
