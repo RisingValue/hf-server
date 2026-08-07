@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "1.1.120",
+  "versionCode": 121,
+  "versionName": "1.1.121",
   "apkUrl": "https://hf.gt.tc/HFPortal/HFPortal.apk",
-  "releaseNotes": "Canli TV kategorilerine 3. siraya JustSports eklendi."
+  "releaseNotes": "JustSports kategorisi duzeltildi: selcuksports.cv WebView uzerinden izleniyor, eski olmus kanal kaynaklari kaldirildi."
 }
