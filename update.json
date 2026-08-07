@@ -1,6 +1,6 @@
 {
   "versionCode": 121,
   "versionName": "1.1.121",
-  "apkUrl": "https://hf.gt.tc/sitepro/HFPortal/HFPortal.apk",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal.apk",
   "releaseNotes": "JustSports kategorisi duzeltildi: selcuksports.cv WebView uzerinden izleniyor, eski olmus kanal kaynaklari kaldirildi."
 }
