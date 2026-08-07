@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "1.1.125",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal.apk",
-  "releaseNotes": "JustSports kategorisi duzeltildi: kategori artik JustSporActivity ekranini aciyor (3 sekme: Tumu/Futbol/TV, sag ustte Yenile butonu, Tumu sekmesi mac+kanal birlestik liste). Once kategori yanlislikla selcuksports webview'ini aciyordu."
+  "versionCode": 126,
+  "versionName": "1.1.126",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.126.apk",
+  "releaseNotes": "Guncelleme artik versiyonlu indiriliyor: cihazin Download klasorune HFPortal-1.1.126.apk gibi kendi versiyon numarasiyla iner. Boylece birden fazla guncelleme birikse de karisma olmaz."
 }
