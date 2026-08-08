@@ -1,6 +1,6 @@
 {
-  "versionCode": 135,
-  "versionName": "1.1.135",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.135.apk",
-  "releaseNotes": "Lisans kontrolu WebView yerine uygulama ici hizli HTTP ile yapilir. Yillik uyelik ekranina Uygulamayi Kapat butonu eklendi."
+  "versionCode": 137,
+  "versionName": "1.1.137",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.137.apk",
+  "releaseNotes": "Lisans kontrolu duzeltildi: codes.txt satirlari artik dogru okunup karsilastiriliyor, aktif MAC giris HomeActivity'e yoneliyor."
 }
