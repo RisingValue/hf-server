@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.1.134",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.134.apk",
-  "releaseNotes": "Guncelleme geldiginde aninda kapanma sorunu giderildi. Guncelleme artik Home ekraninda soru ile sorulur; indirmek istiyor musunuz diye sorulur, onaylaninca indirilir."
+  "versionCode": 135,
+  "versionName": "1.1.135",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.135.apk",
+  "releaseNotes": "Lisans kontrolu WebView yerine uygulama ici hizli HTTP ile yapilir. Yillik uyelik ekranina Uygulamayi Kapat butonu eklendi."
 }
