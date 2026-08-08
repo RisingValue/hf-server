@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.1.133",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.133.apk",
-  "releaseNotes": "Guncelleme ve lisans kontrolu tamamen GitHub uzerinden calisir."
+  "versionCode": 134,
+  "versionName": "1.1.134",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.134.apk",
+  "releaseNotes": "Guncelleme geldiginde aninda kapanma sorunu giderildi. Guncelleme artik Home ekraninda soru ile sorulur; indirmek istiyor musunuz diye sorulur, onaylaninca indirilir."
 }
