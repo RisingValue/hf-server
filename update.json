@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "1.1.137",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.137.apk",
-  "releaseNotes": "Lisans kontrolu duzeltildi: codes.txt satirlari artik dogru okunup karsilastiriliyor, aktif MAC giris HomeActivity'e yoneliyor."
+  "versionCode": 138,
+  "versionName": "1.1.138",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.138.apk",
+  "releaseNotes": "Guncelleme dialogu yesil/kirmizi stil: Indir yesil, Daha Sonra kirmizi; odeme ekrani Kapat butonu kirmizi."
 }
