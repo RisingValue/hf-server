@@ -1,6 +1,6 @@
 {
   "versionCode": 132,
   "versionName": "1.1.132",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.131.apk",
-  "releaseNotes": "Cikis dialogu (2x geri) butonlari belirgin yesil/kirmizi: Cik yesil, Vazgec kirmizi. Guncelleme dialogu ayni stil: Indir yesil, Daha Sonra kirmizi."
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.132.apk",
+  "releaseNotes": "1.1.132: HF Portal sifirdan JustSpor tarzi yakima kavustu. Giris ekrani: MAC aktif kontrol (+ odeme ekrani), guncelleme kontrolu, ana menu (iyi seyirler + versiyon + 4 kategori). Kategori gezinmede beyaz cerceve, cift geri ile cikis sorusu."
 }
