@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "1.1.136",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.136.apk",
-  "releaseNotes": "1.1.136: Kategori dokunma/tiklama carisikligi giderildi. Kumandanin OK tusu artik secilen kategoriye aciliyor, hicbir sekilde CANLI TV sanal tiklamasi uretilmiyor. Kategori ekranlarindan geri butonlari kaldirildi (kumandanin gerisi calisiyor)."
+  "versionCode": 137,
+  "versionName": "1.1.137",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.137.apk",
+  "releaseNotes": "CANLI TV ALANI guclendirildi. Artik kategori listesi var: CanliTv (ana sayfa), Ulusal, Haber, Spor, Belgesel. Kategori acilinca kanal logolari listeleniyor, OK ile kanal secilince tam ekran canli yayin izleniyor."
 }
