@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.1.134",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.134.apk",
-  "releaseNotes": "1.1.134: DIZI ALANI kaldirildi (yeniden kodlanacak). CIHAZ MAC ADRESIN ekranina surum kontrolu eklendi (son surumde ise yesil uyari, degil ise indir ve kur butonu). Kategori gecisi hizlandirildi; geri donuste secili kategori korunuyor."
+  "versionCode": 135,
+  "versionName": "1.1.135",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.135.apk",
+  "releaseNotes": "1.1.135: DIZI ALANI kategori geri sikoldu (icerik hazirlanıyor olarak gösterilir). Kategori gecisleri sabit rotalara alindi (yanlis kategori acilma sorunu giderildi). Uygulama acilisi hizlandirildi: codes.txt ilk indığında yerel hafizaya kaydedilip sonraki acilislarda internet beklenmeden kontrol edilir, guncelleme arka planda yapilir."
 }
