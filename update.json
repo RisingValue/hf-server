@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "1.1.137",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.137.apk",
-  "releaseNotes": "CANLI TV ALANI guclendirildi. Artik kategori listesi var: CanliTv (ana sayfa), Ulusal, Haber, Spor, Belgesel. Kategori acilinca kanal logolari listeleniyor, OK ile kanal secilince tam ekran canli yayin izleniyor."
+  "versionCode": 138,
+  "versionName": "1.1.138",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.138.apk",
+  "releaseNotes": "CANLI TV ALANI tek kategori olarak sadeleştirildi. Ana menüden CANLI TV ALANI seçilince dogrudan Server-1 kanal listesi aciliyor. Kanallar tr.canlitv.watch ana sayfasindan cekiliyor, OK ile kanal secilince tam ekran canli yayin basliyor."
 }
