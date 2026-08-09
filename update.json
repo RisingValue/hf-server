@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.1.133",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.133.apk",
-  "releaseNotes": "1.1.133: DIZI ALANI eklendi. Dizi listesi (poster + isim), bolum listesi ve WebView oynatici (hdfilmcehennemi2 kaynagi). Ana menu 3. kategori duzeltildi: SINEMA ALANI."
+  "versionCode": 134,
+  "versionName": "1.1.134",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.134.apk",
+  "releaseNotes": "1.1.134: DIZI ALANI kaldirildi (yeniden kodlanacak). CIHAZ MAC ADRESIN ekranina surum kontrolu eklendi (son surumde ise yesil uyari, degil ise indir ve kur butonu). Kategori gecisi hizlandirildi; geri donuste secili kategori korunuyor."
 }
