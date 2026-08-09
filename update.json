@@ -1,6 +1,6 @@
 {
-  "versionCode": 135,
-  "versionName": "1.1.135",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.135.apk",
-  "releaseNotes": "1.1.135: DIZI ALANI kategori geri sikoldu (icerik hazirlanıyor olarak gösterilir). Kategori gecisleri sabit rotalara alindi (yanlis kategori acilma sorunu giderildi). Uygulama acilisi hizlandirildi: codes.txt ilk indığında yerel hafizaya kaydedilip sonraki acilislarda internet beklenmeden kontrol edilir, guncelleme arka planda yapilir."
+  "versionCode": 136,
+  "versionName": "1.1.136",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.136.apk",
+  "releaseNotes": "1.1.136: Kategori dokunma/tiklama carisikligi giderildi. Kumandanin OK tusu artik secilen kategoriye aciliyor, hicbir sekilde CANLI TV sanal tiklamasi uretilmiyor. Kategori ekranlarindan geri butonlari kaldirildi (kumandanin gerisi calisiyor)."
 }
