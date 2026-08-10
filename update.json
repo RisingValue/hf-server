@@ -1,6 +1,6 @@
 {
-  "versionCode": 143,
-  "versionName": "1.1.143",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.143.apk",
-  "releaseNotes": "KURULUM DUZELTILDI: minimum Android surumu 8.0'dan 7.0'a indirildi, boylece eski cihazlarda 'There was a problem parsing the package' hatasi alinmadan kurulum yapilabiliyor."
+  "versionCode": 144,
+  "versionName": "1.1.144",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.144.apk",
+  "releaseNotes": "SERVER-1 (JustSpor) GERI DONUS DUZELTILDI: kanala girilip geri donuldugunde listedeki secili kanal korunuyor, sayfa en basta acilmaya calismiyor. (Server-2'deki gibi state koruuyor.) Kurulum ve Server-2 oynatma duzeltmeleri de bu surumde mevcut."
 }
