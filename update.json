@@ -1,6 +1,6 @@
 {
-  "versionCode": 150,
-  "versionName": "1.1.150",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.150.apk",
-  "releaseNotes": "SERVER-1 TUS DAVRANISI SERVER-2 ILE AYNI OLDU: kanal/maç listesinde SAG ve SOL tuslari artik '7/24' ve 'MAÇLAR' sekmeleri arasinda gecis yapiyor (Server-2 kategorileri gibi). Yukari ve asagi tuslari ise kanallar arasinda gezdiriyor."
+  "versionCode": 151,
+  "versionName": "1.1.151",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.151.apk",
+  "releaseNotes": "- Canli TV alaninda sunucularin alt yazilari kaldirildi.\n- Server-1 sekmeleri 'Canli TV' ve 'Canli Maclar' olarak guncellendi.\n- Server-2 kategoriler yeniden siralandi: TV, Futbol, Basketbol, Tenis.\n- Kanallarda ilk GERI tusu yayini durduruyor, ikinci GERI kanaldan cikiyor (her iki sunucuda)."
 }
