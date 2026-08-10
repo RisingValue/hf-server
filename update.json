@@ -1,6 +1,6 @@
 {
-  "versionCode": 147,
-  "versionName": "1.1.147",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.147.apk",
-  "releaseNotes": "SERVER-1 (JUSTSPOR) KANAL OYNATMA DUZELTILDI: kanallar artik orijinal uygulamadaki gibi WebView + hls.js ile aciliyor (mono.m3u8 stream). Sunucu ara yuzunden geri donunce onceki secim korunuyor. Indir ve Kapat butonlari ekranda seciliyken parlak, secili degilken koyu renkte."
+  "versionCode": 150,
+  "versionName": "1.1.150",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.150.apk",
+  "releaseNotes": "SERVER-1 TUS DAVRANISI SERVER-2 ILE AYNI OLDU: kanal/maç listesinde SAG ve SOL tuslari artik '7/24' ve 'MAÇLAR' sekmeleri arasinda gecis yapiyor (Server-2 kategorileri gibi). Yukari ve asagi tuslari ise kanallar arasinda gezdiriyor."
 }
