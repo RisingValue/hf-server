@@ -1,6 +1,6 @@
 {
-  "versionCode": 144,
-  "versionName": "1.1.144",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.144.apk",
-  "releaseNotes": "SERVER-1 (JustSpor) GERI DONUS DUZELTILDI: kanala girilip geri donuldugunde listedeki secili kanal korunuyor, sayfa en basta acilmaya calismiyor. (Server-2'deki gibi state koruuyor.) Kurulum ve Server-2 oynatma duzeltmeleri de bu surumde mevcut."
+  "versionCode": 146,
+  "versionName": "1.1.146",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.146.apk",
+  "releaseNotes": "SERVER-2 FUTBOL MACLARI DUZELTILDI: mac sayfalari (match.php) artik streamsport365 cinema API'sinden yayin adresini cozup dogrudan oynatiliyor (Galaxy-Fire gibi maclar aciliyor). Kanal oynarken sadece GERI tusu calisiyor, MAC ADRESIN kategorisi 'MAC ADRESIN & UYGULAMA SURUMU' olarak guncellendi."
 }
