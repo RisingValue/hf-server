@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "1.1.139",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.139.apk",
-  "releaseNotes": "CANLI TV ALANI dogru akisla yeniden kuruldu: Ana menu > CANLI TV ALANI > Server-1 > kanal kategorileri (ulusal, haber, spor, belgesel...) > kanal isim+resimleri > secilen kanal tam ekran otomatik oynatir. Kategori ekranindaki kapanma (crash) sorunu giderildi."
+  "versionCode": 141,
+  "versionName": "1.1.141",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.141.apk",
+  "releaseNotes": "CANLI TV ALANINA SERVER-2 (selcuksports.cv) EKLENDI: Ana menu > CANLI TV ALANI > Server-2 > FUTBOL/BASKETBOL/TENIS/TV kategorileri > secilen mac otomatik tam ekran oynatir. Server-1 (JustSpor) duzeltmeleri: basliklar kaldirildi, listede secili satir scroll'da kaybolmuyor, kanal adi ust bandi kaldirildi."
 }
