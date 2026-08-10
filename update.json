@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "1.1.139",
-  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.139.apk",
+  "versionCode": 140,
+  "versionName": "1.1.140",
+  "apkUrl": "https://raw.githubusercontent.com/RisingValue/hf-server/main/HFPortal-1.1.140.apk",
   "releaseNotes": "CANLI TV ALANI dogru akisla yeniden kuruldu: Ana menu > CANLI TV ALANI > Server-1 > kanal kategorileri (ulusal, haber, spor, belgesel...) > kanal isim+resimleri > secilen kanal tam ekran otomatik oynatir. Kategori ekranindaki kapanma (crash) sorunu giderildi."
 }
