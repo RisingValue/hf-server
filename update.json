@@ -1,6 +1,6 @@
 {
-  "versionCode": 152,
-  "versionName": "1.1.152",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.152.apk",
-  "releaseNotes": "- Fire TV uyumluluk duzeltmesi: v1 imza zorunlu tutuldu (parse hatasi bitti).\n- Acilis hizlandirma: ag timeout'lari dusuruldu, cache avantaji korundu.\n- Odeme ekraninda 'Uygulamayi Kapat' tusu otomatik secili gelir.\n"
+  "versionCode": 153,
+  "versionName": "1.1.153",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.153.apk",
+  "releaseNotes": "- Canli TV'ye yeni sunucular eklendi: Server-3 (taraftarium24), Server-4 (justintv), Server-5 (tvjustin) ve Server-UFC (hesgoal).\n- Server-UFC kategorileri: Boxing/MMA, Football ve MotorSport/F1.\n- Tum sunucularda 'kanallar calismaz ise DNS ayarlarinizi yapin' bilgi notu eklendi, arayuz ortalandi.\n"
 }
