@@ -1,6 +1,6 @@
 {
-  "versionCode": 151,
-  "versionName": "1.1.151",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.151.apk",
-  "releaseNotes": "- Canli TV alaninda sunucularin alt yazilari kaldirildi.\n- Server-1 sekmeleri 'Canli TV' ve 'Canli Maclar' olarak guncellendi.\n- Server-2 kategoriler yeniden siralandi: TV, Futbol, Basketbol, Tenis.\n- Kanallarda ilk GERI tusu yayini durduruyor, ikinci GERI kanaldan cikiyor (her iki sunucuda)."
+  "versionCode": 152,
+  "versionName": "1.1.152",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.152.apk",
+  "releaseNotes": "- Fire TV uyumluluk duzeltmesi: v1 imza zorunlu tutuldu (parse hatasi bitti).\n- Acilis hizlandirma: ag timeout'lari dusuruldu, cache avantaji korundu.\n- Odeme ekraninda 'Uygulamayi Kapat' tusu otomatik secili gelir.\n"
 }
