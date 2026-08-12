@@ -1,6 +1,6 @@
 {
-  "versionCode": 155,
-  "versionName": "1.1.155",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.155.apk",
-  "releaseNotes": "- Canli TV'ye Server-UFC eklendi (Boxing/MMA, Football, MotorSport/F1).\n- Canli TV sunuculari: Server-1..Server-5 + Server-UFC.\n- Tum sunucularda 'kanallar calismaz ise DNS ayarlarinizi yapin' bilgi notu vardir.\n"
+  "versionCode": 156,
+  "versionName": "1.1.156",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.156.apk",
+  "releaseNotes": "- Server-5 (tvjustin.net) kaldirildi.\n- Server-3'te Liste kategorisine girince kanalin kendiliginden acilmasi duzeltildi; kanal sadece secince aciliyor.\n- Server-3 ve Server-4'te geri gelindiginde kalinan kanal/kategori konumu korunuyor.\n- Server-UFC kanal listeleme iyilestirildi (yedek kaynak + tekrar deneme).\n- Canli TV'ye 'Kirmizi Nokta' (sifreli alan) eklendi.\n  - Kirmizi Nokta kodu: 2 (OK ile onaylanir).\n  - Canli Kameralar (Show Girls): chaturbate18.ru/female-cams.\n  - Canli TV (Muzur Tivi): Kirmizi Nokta 1-17 kanallari.\n- Canli TV kartlari: Server-1..Server-4 + Server-UFC + Kirmizi Nokta.\n"
 }
