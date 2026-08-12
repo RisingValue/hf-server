@@ -1,6 +1,6 @@
 {
-  "versionCode": 154,
-  "versionName": "1.1.154",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.154.apk",
+  "versionCode": 155,
+  "versionName": "1.1.155",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.155.apk",
   "releaseNotes": "- Canli TV'ye Server-UFC eklendi (Boxing/MMA, Football, MotorSport/F1).\n- Canli TV sunuculari: Server-1..Server-5 + Server-UFC.\n- Tum sunucularda 'kanallar calismaz ise DNS ayarlarinizi yapin' bilgi notu vardir.\n"
 }
