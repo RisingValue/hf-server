@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "versionName": "1.1.160",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.160.apk",
-  "releaseNotes": "- Sunucu numaralari siraya dizildi: Server-1, Server-2, Server-3, Server-4, Server-UFC.\n- Server-UFC kanallari duzeltildi: yayin arti vdocity/Mux oynatici uzerinden WebView ile aciliyor (gowm -> livetv903 webplayer).\n- Server-3 yayin cozumu guncellendi (mono.m3u8 + dogru header'lar).\n- Kirmizi Nokta sifre alaninda klavye dogrudan aciliyor; '2' + OK/Enter ile kategoriler.\n- Tum ekranlar telefonla parmakla kaydirilabiliyor.\n"
+  "versionCode": 164,
+  "versionName": "1.1.164",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.164.apk",
+  "releaseNotes": "- Server-UFC: yayin artik dogrudan ExoPlayer ile tam ekran oynatiyor. Uygulama webplayer sayfasini acip vdocity'den cikan gercek m3u8 yayin adresini yakaliyor ve Origin/Referer (vdocity.com) + Firefox UA ile oynatiyor; livetv/vdocity sayfa arayuzu yok.\n- Yayin adresi yakalanamazsa (25sn) sayfa tam ekran fallback olur.\n- Server-3 ve Server-4 sayfa oynaticilari tam ekran sabitleniyor.\n- Kategori/kanal isimleri kucultuldu.\n- Sunucu numaralari: Server-1, Server-2, Server-3, Server-4, Server-UFC.\n"
 }
