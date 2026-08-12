@@ -1,6 +1,6 @@
 {
-  "versionCode": 166,
-  "versionName": "1.1.166",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.166.apk",
-  "releaseNotes": "- Server-1 ve Server-2 yayin ekranlarinda sol ustte duran 'X' kapatma dugmesi kaldirildi (cikis GERI tusu ile).\n- HF Portal acikken cihaz hicbir zaman screen saver / uyku moduna gecmiyor; ekran hep acik kaliyor.\n"
+  "versionCode": 168,
+  "versionName": "1.1.168",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.168.apk",
+  "releaseNotes": "- Server-UFC yeniden kuruldu ve bu kez CrackStreams ile calisiyor: Futbol (Soccer), UFC - MMA ve Boxing kategorileri; her kategoride mac listesi; maca girince yayinlar WebView'de tam ekran aciyor.\n- Bazi maclarda birden fazla yayin varsa 'Yayin 1 / Yayin 2...' secim ekrani geliyor (uzak kumandayla seciliyor).\n- Yayinlar Firefox UA + gooz referer/origin ile yukleniyor (m3u8 hostlari dinamik oldugu icin WebView yontemi kullaniliyor).\n"
 }
