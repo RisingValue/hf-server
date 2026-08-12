@@ -1,6 +1,6 @@
 {
-  "versionCode": 164,
-  "versionName": "1.1.164",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.164.apk",
-  "releaseNotes": "- Server-UFC: yayin artik dogrudan ExoPlayer ile tam ekran oynatiyor. Uygulama webplayer sayfasini acip vdocity'den cikan gercek m3u8 yayin adresini yakaliyor ve Origin/Referer (vdocity.com) + Firefox UA ile oynatiyor; livetv/vdocity sayfa arayuzu yok.\n- Yayin adresi yakalanamazsa (25sn) sayfa tam ekran fallback olur.\n- Server-3 ve Server-4 sayfa oynaticilari tam ekran sabitleniyor.\n- Kategori/kanal isimleri kucultuldu.\n- Sunucu numaralari: Server-1, Server-2, Server-3, Server-4, Server-UFC.\n"
+  "versionCode": 166,
+  "versionName": "1.1.166",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.166.apk",
+  "releaseNotes": "- Server-1 ve Server-2 yayin ekranlarinda sol ustte duran 'X' kapatma dugmesi kaldirildi (cikis GERI tusu ile).\n- HF Portal acikken cihaz hicbir zaman screen saver / uyku moduna gecmiyor; ekran hep acik kaliyor.\n"
 }
