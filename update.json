@@ -1,6 +1,6 @@
 {
-  "versionCode": 175,
-  "versionName": "1.1.175",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.175.apk",
-  "releaseNotes": "- 'Uygulama Surumu' kategorisine 'Yenile (Guncellemeyi Kontrol Et)' tusu eklendi:\n- Otomatik guncelleme kontrolu bazen yeni surumu goremeyebilir; yenile tusuna basinca cache kullanilmadan (no-cache, no-store), dogrudan guncel update.json'a bakilip son versiyon kontrol ediliyor.\n- Kontrol sirasinda spinner gosteriliyor, ayni ekran icinde 'Son Surumu Indir ve Kur' butonu korunuyor.\n- Muzur TV 1.1.174'te duzeltilen tarayıcı-eşdeğeri WebView oynaticisi bu surumde de ayni.\n"
+  "versionCode": 176,
+  "versionName": "1.1.176",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.176.apk",
+  "releaseNotes": "- Server-UFC kategorileri duzeltildi:\n- UFC - MMA ve Boxing kanallari artik goruntuleniyor (crackstreams.page bu kategorileri /live-event/ linkleri ile yayinliyor; uygulama /live/ ile ariyordu, hicbir kanal bulunmuyordu).\n- PSG ve diger yayinlar icin oynatici saglamlastirildi: gooz embed sayfasindaki gizli akis URL'si (atob) artik dogrudan cozulup ExoPlayer'e veriliyor - WebView'in akisi yakalamasina guvenme kalkti. Yani gercek m3u8 akisi garantili sekilde ExoPlayer'da aciliyor.\n"
 }
