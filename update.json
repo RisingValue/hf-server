@@ -1,6 +1,6 @@
 {
-  "versionCode": 169,
-  "versionName": "1.1.169",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.169.apk",
-  "releaseNotes": "- Duzeltme: Server-UFC ve Kirmizi Nokta kart eylemleri birbirine karismisti. Artik Server-UFC (4. kart) CrackStreams listesini acar, Kirmizi Nokta (5. kart) giris ekranini acar.\n"
+  "versionCode": 170,
+  "versionName": "1.1.170",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.170.apk",
+  "releaseNotes": "- CrackStreams (Server-UFC) oynatici yenilendi:\n- Siyah ekran + ses sorunu icin video karesi denetcisi eklendi. Eger bir yayinda ses var ama goruntu gelmiyorsa (videoWidth=0) yayin 'goruntu vermedi' sayilip otomatik olarak yedek yayina geciliyor.\n- Yayin 25 saniye icinde acilmazsa da otomatik olarak sonraki yayin deneniyor (ekranda 'Yayin N deneniyor...' yazisi cikiyor).\n- Oynatici acikken ekranin altinda 'Yedek yayin' cubugu var: Yayin 1 / Yayin 2... sol-sag tuslariyla secilir, OK ile gecilir. Anlik yayin yesil cerceveli.\n- Yayin secenekleri artik sayfadaki tum stream-btn / changeStream id'lerinden toplaniyor; WebView acilinca JS de sayfadaki ek yayinlari toplayip listeye ekliyor.\n"
 }
