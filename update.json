@@ -1,6 +1,6 @@
 {
-  "versionCode": 174,
-  "versionName": "1.1.174",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.174.apk",
-  "releaseNotes": "- Muzur TV kokten duzeltildi:\n- Kanal listesi muzur_kanallar.txt ile birebir yapildi (17 kanal: 501 + 503-518; 'Kirmizi Nokta 14 HD' geri eklendi, isimler/ID'ler eslendi).\n- Muzur oynaticisi artik tarayici gibi saf WebView ile calisiyor: sayfadaki #media-player iframe tam ekran sabitleniyor, javascript/toprak-islemi ile baslatiliyor, reklam alanlari engelleniyor.\n- Artik m3u8 yakalama/ExoPlayer aktarma kaldirildi - yakalanan yanlis m3u8 akisi bozuyordu; tarayicida calisan zincir (embed.php -> dlhd.st stream) aynen uygulama icinde oynatiliyor.\n"
+  "versionCode": 175,
+  "versionName": "1.1.175",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.175.apk",
+  "releaseNotes": "- 'Uygulama Surumu' kategorisine 'Yenile (Guncellemeyi Kontrol Et)' tusu eklendi:\n- Otomatik guncelleme kontrolu bazen yeni surumu goremeyebilir; yenile tusuna basinca cache kullanilmadan (no-cache, no-store), dogrudan guncel update.json'a bakilip son versiyon kontrol ediliyor.\n- Kontrol sirasinda spinner gosteriliyor, ayni ekran icinde 'Son Surumu Indir ve Kur' butonu korunuyor.\n- Muzur TV 1.1.174'te duzeltilen tarayıcı-eşdeğeri WebView oynaticisi bu surumde de ayni.\n"
 }
