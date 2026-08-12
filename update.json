@@ -1,6 +1,6 @@
 {
-  "versionCode": 170,
-  "versionName": "1.1.170",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.170.apk",
-  "releaseNotes": "- CrackStreams (Server-UFC) oynatici yenilendi:\n- Siyah ekran + ses sorunu icin video karesi denetcisi eklendi. Eger bir yayinda ses var ama goruntu gelmiyorsa (videoWidth=0) yayin 'goruntu vermedi' sayilip otomatik olarak yedek yayina geciliyor.\n- Yayin 25 saniye icinde acilmazsa da otomatik olarak sonraki yayin deneniyor (ekranda 'Yayin N deneniyor...' yazisi cikiyor).\n- Oynatici acikken ekranin altinda 'Yedek yayin' cubugu var: Yayin 1 / Yayin 2... sol-sag tuslariyla secilir, OK ile gecilir. Anlik yayin yesil cerceveli.\n- Yayin secenekleri artik sayfadaki tum stream-btn / changeStream id'lerinden toplaniyor; WebView acilinca JS de sayfadaki ek yayinlari toplayip listeye ekliyor.\n"
+  "versionCode": 172,
+  "versionName": "1.1.172",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.172.apk",
+  "releaseNotes": "- Muzur TV: kanallar artik muzur_tv.html ile birebir - 17 kanal, isimler (Kirmizi Nokta 1..17) ve id'ler birebir. Kartlar HTML ile ayni tasarimda: sira numarasi kirmizi/beyaz yuvarlak icinde (kirmizi-beyaz donusumlu).\n- Muzur TV oynatici yenilendi: kanalin gercek akisi (m3u8) WebView icinden yakalanip ExoPlayer ile oynatiliyor - boylece obfuscated oynatici WebView'de donunca bile goruntu cizilmis oluyor. Artik 'kanal acilamadi' yanlis uyarisi da yok.\n- Server-UFC kategorisi: ustteki kategori basligi kaldirildi, tum kategoriler ekranin ortasinda. Kanal listeleri de ust basliksiz, ortalanmis gorunumde.\n"
 }
