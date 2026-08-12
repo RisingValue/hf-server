@@ -1,6 +1,6 @@
 {
-  "versionCode": 159,
-  "versionName": "1.1.159",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.159.apk",
-  "releaseNotes": "- Kirmizi Nokta / Canli TV (Muzur Tivi): kanal secim ve baslatma duzeltildi; ekrandan 'geri ile cik' yazisi kaldirildi.\n- Kirmizi Nokta sifre alaninda klavye giriste dogrudan aciliyor; '2' yazip OK/Enter'a basinca kategoriler geliyor.\n- Tum uygulamada kategori ve icerik ekranlari telefonla parmakla kaydirilabilir (yukari/asagi/sag/sol).\n"
+  "versionCode": 160,
+  "versionName": "1.1.160",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.160.apk",
+  "releaseNotes": "- Sunucu numaralari siraya dizildi: Server-1, Server-2, Server-3, Server-4, Server-UFC.\n- Server-UFC kanallari duzeltildi: yayin arti vdocity/Mux oynatici uzerinden WebView ile aciliyor (gowm -> livetv903 webplayer).\n- Server-3 yayin cozumu guncellendi (mono.m3u8 + dogru header'lar).\n- Kirmizi Nokta sifre alaninda klavye dogrudan aciliyor; '2' + OK/Enter ile kategoriler.\n- Tum ekranlar telefonla parmakla kaydirilabiliyor.\n"
 }
