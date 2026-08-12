@@ -1,6 +1,6 @@
 {
-  "versionCode": 168,
-  "versionName": "1.1.168",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.168.apk",
-  "releaseNotes": "- Server-UFC yeniden kuruldu ve bu kez CrackStreams ile calisiyor: Futbol (Soccer), UFC - MMA ve Boxing kategorileri; her kategoride mac listesi; maca girince yayinlar WebView'de tam ekran aciyor.\n- Bazi maclarda birden fazla yayin varsa 'Yayin 1 / Yayin 2...' secim ekrani geliyor (uzak kumandayla seciliyor).\n- Yayinlar Firefox UA + gooz referer/origin ile yukleniyor (m3u8 hostlari dinamik oldugu icin WebView yontemi kullaniliyor).\n"
+  "versionCode": 169,
+  "versionName": "1.1.169",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.169.apk",
+  "releaseNotes": "- Duzeltme: Server-UFC ve Kirmizi Nokta kart eylemleri birbirine karismisti. Artik Server-UFC (4. kart) CrackStreams listesini acar, Kirmizi Nokta (5. kart) giris ekranini acar.\n"
 }
