@@ -1,6 +1,6 @@
 {
-  "versionCode": 157,
-  "versionName": "1.1.157",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.157.apk",
-  "releaseNotes": "- Kirmizi Nokta sifre ekrani duzeltildi: sifre tuslayip OK basinca onaylaniyor (tekrar '2' yazmasi giderildi).\n- Canli Kameralar (Show Girls) yenilendi: sadece yayinci resmi + ismi grid halinde, altta 'DAHA FAZLA YAYINCI' ile daha fazla model yukleniyor; secilende tam ekran yayin + 'yayin baslamadi' uyarisi.\n- Canli TV (Muzur Tivi): ustteki baslik kaldirildi; uzaktan kumanda yon tuslariyla kanal secimi aktif; kanal acilamazsa ekranda uyari cikiyor.\n- Server-3 kanallari duzeltildi (yayin CDN'sine gerekli kimlik bilgileri eklendi; arti masaustu tarayici user-agent).\n- Server-4 ve Server-UFC icin eklendi: canli maclar yesil 'CANLI' rozetiyle isaretleniyor, baslamayanlar 'BEKLEMEDE' gorunuyor; baslamayan macta uyari veriliyor.\n- Server-UFC kanal listeleme duzeltildi (0 kanal gosterilme hatasi giderildi; oynatici direkt m3u8 + yedek zincir deniyor).\n"
+  "versionCode": 159,
+  "versionName": "1.1.159",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.159.apk",
+  "releaseNotes": "- Kirmizi Nokta / Canli TV (Muzur Tivi): kanal secim ve baslatma duzeltildi; ekrandan 'geri ile cik' yazisi kaldirildi.\n- Kirmizi Nokta sifre alaninda klavye giriste dogrudan aciliyor; '2' yazip OK/Enter'a basinca kategoriler geliyor.\n- Tum uygulamada kategori ve icerik ekranlari telefonla parmakla kaydirilabilir (yukari/asagi/sag/sol).\n"
 }
