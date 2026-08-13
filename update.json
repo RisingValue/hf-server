@@ -1,6 +1,6 @@
 {
-  "versionCode": 178,
-  "versionName": "1.1.178",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.178.apk",
-  "releaseNotes": "- Server-3 (Taraftarium) yeni kaynakla duzeltildi: taraftarium24.xyz + andro checklist m3u8.\n- Server-4 (JustinTV) yeni kaynakla duzeltildi: tvjustin.net + andro checklist m3u8 (referer/UA guncel).\n- Muzur (Kirmizi Nokta) yeniden duzeltildi: iframe/WebView yerine zincir cozumlemesi (daddylive -> dlhd -> daddy3-atob) ile m3u8 bulunup ExoPlayer ile oynatiliyor.\n- Muzur kanal isimleri guncellendi: 15 HD, 16, 17.\n- DIZI bolumu aktif: canlidizi14 dizileri + bolumler ExoPlayer ile oynatiliyor.\n- SINEMA bolumu aktif: filmizleking kategorileri + filmler ExoPlayer ile oynatiliyor.\n- Landscape kilit kaldirildi; uygulama artik tum ekranlarada dik/yan kullanilabilir.\n"
+  "versionCode": 179,
+  "versionName": "1.1.179",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.179.apk",
+  "releaseNotes": "- SINEMA: ekran ustundeki SINEMA ve EDITORUN SECIMI basliklari kaldirildi.\n- SINEMA: filmler artik 4'lu grid ile gosteriliyor; secili filmin posteri arkada fanart olarak gorunuyor.\n- SINEMA: film posterleri duzeltildi (okhttp UA engeli asildi), kategoriler duzeltildi (filmizleking /turler/ dolu geliyor).\n- SINEMA: film oynatma ekranindaki ust baslik kaldirildi.\n- DIZI: ekran ustundeki DIZI basligi kaldirildi; yeni 'Son Eklenen Yerli Diziler' ve 'Son Eklenen Diziler' kategorileri eklendi.\n- DIZI: liste ekranlarindaki 'Sayfa N' ibaresi kaldirildi.\n- CANLI TV (Server-UFC): MMA/Boxing listelerinde tarihi gelecekte olan maclara CANLI ibaresi konulmuyor.\n- CANLI TV (Server-UFC): yayin cozumlemesi guclendirildi (atob/const source varyantlari), Rangers gibi maclar icin akis bulunuyor.\n"
 }
