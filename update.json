@@ -1,6 +1,6 @@
 {
-  "versionCode": 179,
-  "versionName": "1.1.179",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.179.apk",
-  "releaseNotes": "- SINEMA: ekran ustundeki SINEMA ve EDITORUN SECIMI basliklari kaldirildi.\n- SINEMA: filmler artik 4'lu grid ile gosteriliyor; secili filmin posteri arkada fanart olarak gorunuyor.\n- SINEMA: film posterleri duzeltildi (okhttp UA engeli asildi), kategoriler duzeltildi (filmizleking /turler/ dolu geliyor).\n- SINEMA: film oynatma ekranindaki ust baslik kaldirildi.\n- DIZI: ekran ustundeki DIZI basligi kaldirildi; yeni 'Son Eklenen Yerli Diziler' ve 'Son Eklenen Diziler' kategorileri eklendi.\n- DIZI: liste ekranlarindaki 'Sayfa N' ibaresi kaldirildi.\n- CANLI TV (Server-UFC): MMA/Boxing listelerinde tarihi gelecekte olan maclara CANLI ibaresi konulmuyor.\n- CANLI TV (Server-UFC): yayin cozumlemesi guclendirildi (atob/const source varyantlari), Rangers gibi maclar icin akis bulunuyor.\n"
+  "versionCode": 180,
+  "versionName": "1.1.180",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.180.apk",
+  "releaseNotes": "- SINEMA: ekran ustundeki SINEMA ve EDITORUN SECIMI basliklari kaldirildi.\n- SINEMA: filmler artik 4'lu grid ile gosteriliyor; secili filmin posteri arkada fanart olarak gorunuyor.\n- SINEMA: film posterleri duzeltildi (okhttp UA engeli asildi), kategoriler duzeltildi (filmizleking /turler/ dolu geliyor).\n- SINEMA: film oynatma ekranindaki ust baslik kaldirildi.\n- DIZI: ekran ustundeki DIZI basligi kaldirildi; yeni 'Son Eklenen Yerli Diziler' ve 'Son Eklenen Diziler' kategorileri eklendi.\n- DIZI: liste ekranlarindaki 'Sayfa N' ibaresi kaldirildi.\n- DIZI: listede asagi inerken secili kart ekranda kalacak sekilde otomatik kaydirma eklendi.\n- CANLI TV (Server-UFC): MMA/Boxing listelerinde tarihi gelecekte olan maclara CANLI ibaresi konulmuyor.\n- CANLI TV (Server-UFC): yayin cozumlemesi guclendirildi (atob/const source varyantlari).\n"
 }
