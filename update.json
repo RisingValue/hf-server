@@ -1,6 +1,6 @@
 {
-  "versionCode": 176,
-  "versionName": "1.1.176",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.176.apk",
-  "releaseNotes": "- Server-UFC kategorileri duzeltildi:\n- UFC - MMA ve Boxing kanallari artik goruntuleniyor (crackstreams.page bu kategorileri /live-event/ linkleri ile yayinliyor; uygulama /live/ ile ariyordu, hicbir kanal bulunmuyordu).\n- PSG ve diger yayinlar icin oynatici saglamlastirildi: gooz embed sayfasindaki gizli akis URL'si (atob) artik dogrudan cozulup ExoPlayer'e veriliyor - WebView'in akisi yakalamasina guvenme kalkti. Yani gercek m3u8 akisi garantili sekilde ExoPlayer'da aciliyor.\n"
+  "versionCode": 177,
+  "versionName": "1.1.177",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.177.apk",
+  "releaseNotes": "- Canli TV server sirasi guncellendi: Server-2, Server-3, Server-1, Server-4, Server-UFC, Kirmizi Nokta.\n- Show Girls (Canli Kameralar) duzeltildi: yayincidan geri donulunce liste artik en basa atmiyor, kaldigi yayincida kalip oradan devam ediyor.\n- Show Girls hata metni duzeltildi: futbol/mac ifadesi kaldirildi, yayin acilmayinca sadece farkli yayinci ya da geri tusi oneriliyor.\n"
 }
