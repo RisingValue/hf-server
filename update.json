@@ -1,6 +1,6 @@
 {
-  "versionCode": 185,
-  "versionName": "1.1.185",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.185.apk",
-  "releaseNotes": "- MUZUR TIVI: kanallar artik tam ekran HLS yayin ile oynatiliyor (Sinema oynaticisi gibi); siyah ekran sorunu duzeltildi.\n- KIRMIZI NOKTA: en ustune 'Canli Kameralar (Muzur Kizlar)' kategorisi eklendi; kanal kategorileri ortalanarak dizildi.\n- KIRMIZI NOKTA: KIZLAR kategorisi ayri sayfalamayla listeleniyor.\n- SINEMA: film oynaticisinda OK tusu ile yayin duraklatilip devam ettirilebiliyor.\n- DIZI: bolum oynaticisi videoframe-only tam ekran oldu; baslangic reklamlari engelleniyor/skip ediliyor.\n- DIZI: 'TUM DIZILER' secenegi 'hazirlaniyor' ekranina yonlendirir.\n- DIZI: liste ekranindaki ust 'TUM DIZILER' basligi kaldirildi.\n- Cihaz Ayarlari: DNS uygulamalari listesinden DNS+Changer kaldirildi; sadece Purple DNS kaldi.\n"
+  "versionCode": 186,
+  "versionName": "1.1.186",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.186.apk",
+  "releaseNotes": "- MUZUR TIVI: kanallar artik tam ekran HLS yayin ile oynatiliyor (Sinema oynaticisi gibi); siyah ekran sorunu duzeltildi.\n- MUZUR TIVI: yayin kaynagindaki referer gereksinimi duzeltildi; kanalin gercek m3u8 adresi her acilista taze cozuluyor.\n- KIRMIZI NOKTA: 'Canli Kameralar (Muzur Kizlar)' artik chaturbate18.ru /female-cams kaynagindan listeleniyor.\n- KIRMIZI NOKTA: Show Girls kategorisi adultchaturbate.com'da kalmaya devam ediyor.\n"
 }
