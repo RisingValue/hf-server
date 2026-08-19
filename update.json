@@ -1,6 +1,6 @@
 {
-  "versionCode": 184,
-  "versionName": "1.1.184",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.184.apk",
-  "releaseNotes": "- KIRMIZI NOKTA: en ustune 'Canli Kameralar (Muzur KIZLAR)' kategorisi eklendi; kanal kategorileri ortalanarak dizildi.\n- KIRMIZI NOKTA: KIZLAR kategorisi ayri sayfalamayla listeleniyor.\n- MUZUR TV: kanallar guncel canli yayin adresleriyle guncellendi; kanala basinca tam ekran tarayici oynaticisi aciliyor.\n- SINEMA: film oynaticisinda OK tusu ile yayin duraklatilip devam ettirilebiliyor (ileri/geri sarmak icin).\n- DIZI: 'TUM DIZILER' secenegi 'hazirlaniyor' ekranina yonlendirir.\n- DIZI: liste ekranindaki ust 'TUM DIZILER' basligi kaldirildi.\n- DIZI: bolum oynaticisi videoframe-only tam ekran oldu; baslangic reklamlari engelleniyor/skip ediliyor.\n- Cihaz Ayarlari: DNS uygulamalari listesinden DNS+Changer kaldirildi; sadece Purple DNS kaldi.\n"
+  "versionCode": 185,
+  "versionName": "1.1.185",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.185.apk",
+  "releaseNotes": "- MUZUR TIVI: kanallar artik tam ekran HLS yayin ile oynatiliyor (Sinema oynaticisi gibi); siyah ekran sorunu duzeltildi.\n- KIRMIZI NOKTA: en ustune 'Canli Kameralar (Muzur Kizlar)' kategorisi eklendi; kanal kategorileri ortalanarak dizildi.\n- KIRMIZI NOKTA: KIZLAR kategorisi ayri sayfalamayla listeleniyor.\n- SINEMA: film oynaticisinda OK tusu ile yayin duraklatilip devam ettirilebiliyor.\n- DIZI: bolum oynaticisi videoframe-only tam ekran oldu; baslangic reklamlari engelleniyor/skip ediliyor.\n- DIZI: 'TUM DIZILER' secenegi 'hazirlaniyor' ekranina yonlendirir.\n- DIZI: liste ekranindaki ust 'TUM DIZILER' basligi kaldirildi.\n- Cihaz Ayarlari: DNS uygulamalari listesinden DNS+Changer kaldirildi; sadece Purple DNS kaldi.\n"
 }
