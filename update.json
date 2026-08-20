@@ -1,6 +1,6 @@
 {
-  "versionCode": 186,
-  "versionName": "1.1.186",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.186.apk",
-  "releaseNotes": "- MUZUR TIVI: kanallar artik tam ekran HLS yayin ile oynatiliyor (Sinema oynaticisi gibi); siyah ekran sorunu duzeltildi.\n- MUZUR TIVI: yayin kaynagindaki referer gereksinimi duzeltildi; kanalin gercek m3u8 adresi her acilista taze cozuluyor.\n- KIRMIZI NOKTA: 'Canli Kameralar (Muzur Kizlar)' artik chaturbate18.ru /female-cams kaynagindan listeleniyor.\n- KIRMIZI NOKTA: Show Girls kategorisi adultchaturbate.com'da kalmaya devam ediyor.\n"
+  "versionCode": 187,
+  "versionName": "1.1.187",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.187.apk",
+  "releaseNotes": "- SERVER 2 (JustSpor/patronsports2): yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer, kanal kendi oynaticisiyla yayinlar).\n"
 }
