@@ -2,5 +2,5 @@
   "versionCode": 187,
   "versionName": "1.1.187",
   "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.187.apk",
-  "releaseNotes": "- SERVER 2 (JustSpor/patronsports2): yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer, kanal kendi oynaticisiyla yayinlar).\n"
+  "releaseNotes": "- SERVER 2  yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer, kanal kendi oynaticisiyla yayinlar).\n"
 }
