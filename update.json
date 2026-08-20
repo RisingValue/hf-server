@@ -1,6 +1,6 @@
 {
-  "versionCode": 187,
-  "versionName": "1.1.187",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.187.apk",
-  "releaseNotes": "- SERVER 2  yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer, kanal kendi oynaticisiyla yayinlar).\n"
+  "versionCode": 188,
+  "versionName": "1.1.188",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.188.apk",
+  "releaseNotes": "- MUZUR TIVI: kanal kartlari yenilendi; logolar silindi, siyah zemin uzerinde numara ikonlari gosteriliyor (tek numaralar kirmizi, cift numaralar beyaz).\n- MUZUR TIVI: ustteki basliklar kaldirildi; uzaktan kumanda ile asagi gidildikce grid otomatik kaydiriliyor.\n- SERVER 2 (JustSpor/patronsports2): yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer).\n"
 }
