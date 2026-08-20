@@ -1,6 +1,6 @@
 {
-  "versionCode": 188,
-  "versionName": "1.1.188",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.188.apk",
-  "releaseNotes": "- MUZUR TIVI: kanal kartlari yenilendi; logolar silindi, siyah zemin uzerinde numara ikonlari gosteriliyor (tek numaralar kirmizi, cift numaralar beyaz).\n- MUZUR TIVI: ustteki basliklar kaldirildi; uzaktan kumanda ile asagi gidildikce grid otomatik kaydiriliyor.\n- SERVER 2 (JustSpor/patronsports2): yayinlar artik sitenin kendi ch.html sayfasi tam ekran WebView icinde acilir (Cloudflare korumasini gecer).\n"
+  "versionCode": 189,
+  "versionName": "1.1.189",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.189.apk",
+  "releaseNotes": "- MUZUR KIZLAR: yayinlar duzeltildi (chaturbate18.ru playlist token uzantisi ile canli yayinlar aciliyor).\n- MUZUR TIVI: kanal listesi ekran ortasinda ortalanarak gosteriliyor; kart boyutlari ve yazilar ekrana gore orantili olcekleniyor.\n"
 }
