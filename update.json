@@ -1,6 +1,6 @@
 {
-  "versionCode": 191,
-  "versionName": "1.1.191",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.191.apk",
-  "releaseNotes": "- DIZI: bolum acilisinda tam web sayfasi yerine yalnizca bolum tam ekran oynatiliyor (hlszone.com fireplayer API ile HLS cozumlendi).\n"
+  "versionCode": 193,
+  "versionName": "1.1.193",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.193.apk",
+  "releaseNotes": "- DIZI: bolum acilisinda tam web sayfasi yerine yalnizca bolum tam ekran oynatiliyor (hlszone.com fireplayer API ile HLS cozumlendi).\n- CIHAZ AYARLARI: Kategori/menu yapisina dondu, DNS Uygulamalari secenegi Uygulamayi Kapat ustuna tasindi.\n- DIZI OYNATICI: Geri tusunda oynatma durur, uygulama kasmaz.\n- DIZI LISTESI: Geri donunce secili dizi/bolum korundu, nerde oldugun gosteriliyor.\n- CAM PLAYER: chaturbate18.ru (Muzur Kizlar) icin fallback WebView eklendi, token yenileme onlendi.\n"
 }
