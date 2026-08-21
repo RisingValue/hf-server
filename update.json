@@ -1,6 +1,6 @@
 {
-  "versionCode": 194,
-  "versionName": "1.1.194",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.194.apk",
-  "releaseNotes": "- DIZI: bolum tam ekran oynatiliyor (hlszone.com HLS cozumu ile ExoPlayer/WebView).\n- DIZI LISTESI: Geri donunce secili dizi/bolum korundu.\n- CIHAZ AYARLARI: DNS Uygulamalari butonu Uygulamayi Kapat altina tasindi.\n"
+  "versionCode": 195,
+  "versionName": "1.1.195",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.195.apk",
+  "releaseNotes": "- v1.1.189 kod tabanina geri donuldu.\n- Dizi oynatici ve muzur kizlar sorunlari cozuldu.\n"
 }
