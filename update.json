@@ -1,6 +1,6 @@
 {
-  "versionCode": 195,
-  "versionName": "1.1.195",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.195.apk",
-  "releaseNotes": "- v1.1.189 kod tabanina geri donuldu.\n- Dizi oynatici ve muzur kizlar sorunlari cozuldu.\n"
+  "versionCode": 196,
+  "versionName": "1.1.196",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.196.apk",
+  "releaseNotes": "- Dizi ekraninda geri navigasyon scroll sorunu cozuldu.\n- Secili dizi konumu artik korunuyor.\n- Genel iyilestirmeler.\n"
 }
