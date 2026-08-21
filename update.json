@@ -1,6 +1,6 @@
 {
   "versionCode": 190,
-  "versionName": "1.1.190",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.190.apk",
+  "versionName": "1.1.191",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.191.apk",
   "releaseNotes": "- DIZI: bolum acilisinda tam web sayfasi yerine yalnizca bolum tam ekran oynatiliyor (hlszone.com fireplayer API ile HLS cozumlendi).\n"
 }
