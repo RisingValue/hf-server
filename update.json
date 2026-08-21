@@ -1,6 +1,6 @@
 {
-  "versionCode": 212,
-  "versionName": "1.1.212",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.212.apk",
-  "releaseNotes": "- Muzur Kizlar chaturbate-free.ru'ya gecirildi, VLC ile oynatma duzeltildi.\n"
+  "versionCode": 213,
+  "versionName": "1.1.213",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.213.apk",
+  "releaseNotes": "- VLC/MX secici duzeltildi (MATCH_ALL ile VLC artik gorunur).\n- Ayarlar cokmesi icin cokme yakalayici eklendi (hata raporu ekrani).\n"
 }
