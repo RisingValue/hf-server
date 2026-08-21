@@ -1,6 +1,6 @@
 {
-  "versionCode": 189,
-  "versionName": "1.1.189",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.189.apk",
-  "releaseNotes": "- MUZUR KIZLAR: yayinlar duzeltildi ( playlist token uzantisi ile canli yayinlar aciliyor).\n- MUZUR TIVI: kanal listesi ekran ortasinda ortalanarak gosteriliyor; kart boyutlari ve yazilar ekrana gore orantili olcekleniyor.\n"
+  "versionCode": 190,
+  "versionName": "1.1.190",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.190.apk",
+  "releaseNotes": "- DIZI: bolum acilisinda tam web sayfasi yerine yalnizca bolum tam ekran oynatiliyor (hlszone.com fireplayer API ile HLS cozumlendi).\n"
 }
