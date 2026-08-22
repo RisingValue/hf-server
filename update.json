@@ -1,6 +1,6 @@
 {
-  "versionCode": 213,
-  "versionName": "1.1.213",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.213.apk",
-  "releaseNotes": "- VLC/MX secici duzeltildi (MATCH_ALL ile VLC artik gorunur).\n- Ayarlar cokmesi icin cokme yakalayici eklendi (hata raporu ekrani).\n"
+  "versionCode": 214,
+  "versionName": "1.1.214",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.214.apk",
+  "releaseNotes": "- Muzur Kizlar bolumu blushcams.com/female-cams ile guncellendi.\n- Lisans kontrolu hizlandi (cache-buster ile aninda yansima).\n"
 }
