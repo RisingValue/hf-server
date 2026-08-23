@@ -1,6 +1,6 @@
 {
-  "versionCode": 222,
-  "versionName": "1.1.222",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.222.apk",
-  "releaseNotes": "- Canli TV'ye 'Uydu Server' kategorisi eklendi (METV kategorilerinin tamami: Ulusal, Haber, Belgesel, Sinema, Cocuk, Muzik, Tabii, Atom Mac, DMAX, Zeus, VAVOO, Maclar 1-7).\n"
+  "versionCode": 225,
+  "versionName": "1.1.225",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.225.apk",
+  "releaseNotes": "- Kirmizi Nokta kategorisinde orijinal kirmizi nokta ikonu korundu (konum ikonu kaldirildi).\n"
 }
