@@ -1,6 +1,6 @@
 {
-  "versionCode": 226,
-  "versionName": "1.1.226",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.226.apk",
-  "releaseNotes": "- Uydu Server ikonlari duz beyaz dolgulu hale getirildi (gorunurluk). Uydu Server basligindaki 'METV' yazisi kaldirildi. Server-2 altindaki 'Selcuk Spor' yazisi kaldirildi. Ana menuden 'Cihaz Ayarlari' kaldirildi (acilinca cokus yapiyordu). Uydu Server geri donusunde secili kategori korunur.\n"
+  "versionCode": 227,
+  "versionName": "1.1.227",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.227.apk",
+  "releaseNotes": "Kirmizi Nokta kanallari guncellendi (19 kanal). Uydu Server kategorileri guncellendi.\n"
 }
