@@ -1,6 +1,6 @@
 {
-  "versionCode": 229,
-  "versionName": "1.1.229",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.229.apk",
-  "releaseNotes": "Kirmizi Nokta kanallari guncellendi (19 kanal). Uydu Server kategorileri guncellendi.\n"
+  "versionCode": 230,
+  "versionName": "1.1.230",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.230.apk",
+  "releaseNotes": "Uydu Server'dan DMAX silindi. Sinema video oynaticida ayar butonu duzeltildi (pause yerine settings aciliyor).\n"
 }
