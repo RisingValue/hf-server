@@ -1,6 +1,6 @@
 {
-  "versionCode": 230,
-  "versionName": "1.1.230",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.230.apk",
-  "releaseNotes": "Uydu Server'dan DMAX silindi. Sinema video oynaticida ayar butonu duzeltildi (pause yerine settings aciliyor).\n"
+  "versionCode": 231,
+  "versionName": "1.1.231",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.231.apk",
+  "releaseNotes": "Lisans dogrulama hizlandirildi - tek URL ile kontrol.\n"
 }
