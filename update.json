@@ -1,6 +1,6 @@
 {
-  "versionCode": 230,
-  "versionName": "1.1.230",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.230.apk",
+  "versionCode": 232,
+  "versionName": "1.1.232",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.232.apk",
   "releaseNotes": "Lisans dogrulama hizlandirildi - tek URL ile kontrol.\n"
 }
