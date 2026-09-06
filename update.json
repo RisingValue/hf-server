@@ -1,6 +1,6 @@
 {
-  "versionCode": 233,
-  "versionName": "1.1.233",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.233.apk",
-  "releaseNotes": "Lisans dogrulama hizlandirildi - 1.5sn bekletme.\n"
+  "versionCode": 234,
+  "versionName": "1.1.234",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.234.apk",
+  "releaseNotes": "Gelistirilmis MAC dogrulama - offline kontrol eklendi.\n"
 }
