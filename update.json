@@ -1,6 +1,6 @@
 {
-  "versionCode": 234,
-  "versionName": "1.1.234",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/HFPortal-1.1.234.apk",
-  "releaseNotes": "Gelistirilmis MAC dogrulama - offline kontrol eklendi.\n"
+  "versionCode": 246,
+  "versionName": "1.1.246",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RSPortal-1.1.246.apk",
+  "releaseNotes": "Cokme raporu yazma dallari duzeltildi.\n"
 }
