@@ -1,6 +1,6 @@
 {
-  "versionCode": 246,
-  "versionName": "1.1.246",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RSPortal-1.1.246.apk",
-  "releaseNotes": "Cokme raporu yazma dallari duzeltildi.\n"
+  "versionCode": 261,
+  "versionName": "1.1.261",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.261.apk",
+  "releaseNotes": "Sinema Alani'nin en ustune Film Ara eklendi; Dizi Ara gibi calisiyor: klavye dogrudan aciliyor, Enter'a basinca sonuclar kapakli grid olarak geliyor. filmizleking uzerinde acilmayan filmler icin canlidizi14 yedegi eklendi: film basligi (parantez icindeki orijinal ad) canlidizi14'te aranip bulunursa hlszone kaynagindan dogrudan tam ekran oynatiliyor. Boylece Aksiyon Filmler icindeki Sinirsiz (Runner - 2026) filmi de calisiyor.\n"
 }
