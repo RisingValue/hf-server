@@ -1,6 +1,6 @@
 {
-  "versionCode": 262,
-  "versionName": "1.1.262",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.262.apk",
-  "releaseNotes": "Otomatik guncelleme eklendi. Uygulama acilirken kendi surumunu sunucudaki update.json ile karsilastiriyor; sunucuda daha yeni bir surum varsa siz sormadan 'Guncelleme Var' penceresi aciliyor. 'Indir ve Kur' ile yeni APK indirilip kurulum ekrani aciliyor. Ayarlar > Guncelleme Kontrolu butonu da ayni kontrolu elle yapiyor (guncelseniz de bildiriyor).\n"
+  "versionCode": 263,
+  "versionName": "1.1.263",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.263.apk",
+  "releaseNotes": "Ayarlar > Guncel Surumu Kontrol Et butonu artik calisiyor: her basista sunucudaki surumu kontrol eder, sonucu ekranda yazar ve yeni surum varsa indirme penceresini acar. Kirmizi Nokta sifre ekraninda tus takimi odak cercevesi eklendi; yon tuslariyla hangi rakam uzerinde oldugunuz altin cerceveyle gorunuyor ve ilk tusa otomatik odaklaniliyor. Ana ekranda 'RisingValue Portal' yazisi kaldirildi, logo altinda sadece 'iyi seyirler' yaziyor; surum altindaki 'RisingValue' yazisi da kaldirildi.\n"
 }
