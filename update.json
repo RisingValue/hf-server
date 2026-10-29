@@ -1,6 +1,6 @@
 {
-  "versionCode": 263,
-  "versionName": "1.1.263",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.263.apk",
-  "releaseNotes": "Ayarlar > Guncel Surumu Kontrol Et butonu artik calisiyor: her basista sunucudaki surumu kontrol eder, sonucu ekranda yazar ve yeni surum varsa indirme penceresini acar. Kirmizi Nokta sifre ekraninda tus takimi odak cercevesi eklendi; yon tuslariyla hangi rakam uzerinde oldugunuz altin cerceveyle gorunuyor ve ilk tusa otomatik odaklaniliyor. Ana ekranda 'RisingValue Portal' yazisi kaldirildi, logo altinda sadece 'iyi seyirler' yaziyor; surum altindaki 'RisingValue' yazisi da kaldirildi.\n"
+  "versionCode": 265,
+  "versionName": "1.1.265",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.265.apk",
+  "releaseNotes": "Kanal logolari artik resim olarak gosteriliyor, Muzur Tivi kanallari yeni adreslerle guncellendi ve film oynatici gecici hatalarda kendini toparliyor."
 }
