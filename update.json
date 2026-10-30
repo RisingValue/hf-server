@@ -1,6 +1,6 @@
 {
-  "versionCode": 265,
-  "versionName": "1.1.265",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.265.apk",
-  "releaseNotes": "Kanal logolari artik resim olarak gosteriliyor, Muzur Tivi kanallari yeni adreslerle guncellendi ve film oynatici gecici hatalarda kendini toparliyor."
+  "versionCode": 271,
+  "versionName": "1.1.271",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.271.apk",
+  "releaseNotes": "Dizi alanina CanliDizi Server adi ve DiziPal Server kategorisi eklendi."
 }
