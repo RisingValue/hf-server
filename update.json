@@ -1,6 +1,6 @@
 {
-  "versionCode": 277,
-  "versionName": "1.1.277",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.277.apk",
-  "releaseNotes": "Telefonlar dikey kullanilabiliyor, ekran boyutuna gore duzen ve grid eklendi, aktivasyon ekranina cikis icin Kapat butonu konuldu."
+  "versionCode": 278,
+  "versionName": "1.1.278",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.278.apk",
+  "releaseNotes": "Canli TV alanina Uydu Server eklendi; Turk Kanallari, UK Channels ve Dovus/UFC/PPV kategorileri Kirmizi Nokta oynaticisiyla aciliyor."
 }
