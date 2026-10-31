@@ -1,6 +1,6 @@
 {
-  "versionCode": 275,
-  "versionName": "1.1.275",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.275.apk",
-  "releaseNotes": "Kategorilere giris icin cihaz kodu aktivasyonu eklendi, kod codes.txt listesinde yoksa ekranda gosterilip yetkili kisi ile paylasilmasi isteniyor."
+  "versionCode": 277,
+  "versionName": "1.1.277",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.277.apk",
+  "releaseNotes": "Telefonlar dikey kullanilabiliyor, ekran boyutuna gore duzen ve grid eklendi, aktivasyon ekranina cikis icin Kapat butonu konuldu."
 }
