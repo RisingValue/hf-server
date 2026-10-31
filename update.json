@@ -1,6 +1,6 @@
 {
-  "versionCode": 271,
-  "versionName": "1.1.271",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.271.apk",
-  "releaseNotes": "Dizi alanina CanliDizi Server adi ve DiziPal Server kategorisi eklendi."
+  "versionCode": 275,
+  "versionName": "1.1.275",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.275.apk",
+  "releaseNotes": "Kategorilere giris icin cihaz kodu aktivasyonu eklendi, kod codes.txt listesinde yoksa ekranda gosterilip yetkili kisi ile paylasilmasi isteniyor."
 }
