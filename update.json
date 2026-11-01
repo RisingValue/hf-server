@@ -1,6 +1,6 @@
 {
-  "versionCode": 279,
-  "versionName": "1.1.279",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.279.apk",
-  "releaseNotes": "Uydu Server içine JustSports World Live eklendi; İskoçya, Türkiye, İngiltere, F1, MotoGP, UEFA, Dünya Kupası, Nations League ve Boks/UFC kategorileri thedaddy canlı maç takviminden geliyor."
+  "versionCode": 280,
+  "versionName": "1.1.280",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.280.apk",
+  "releaseNotes": "Favorilerim eklendi; herhangi bir kanal, dizi veya film uzun basılarak favorilere eklenebiliyor ve ana ekranın en üstündeki Favorilerim kategorisinden doğrudan açılabiliyor."
 }
