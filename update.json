@@ -1,6 +1,6 @@
 {
-  "versionCode": 280,
-  "versionName": "1.1.280",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.280.apk",
-  "releaseNotes": "Favorilerim eklendi; herhangi bir kanal, dizi veya film uzun basılarak favorilere eklenebiliyor ve ana ekranın en üstündeki Favorilerim kategorisinden doğrudan açılabiliyor."
+  "versionCode": 281,
+  "versionName": "1.1.281",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.281.apk",
+  "releaseNotes": "Favorilerim listesinde her favorinin isminin altında alındığı kategori yolu turuncu yazıyla gösteriliyor."
 }
