@@ -1,6 +1,6 @@
 {
-  "versionCode": 278,
-  "versionName": "1.1.278",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.278.apk",
-  "releaseNotes": "Canli TV alanina Uydu Server eklendi; Turk Kanallari, UK Channels ve Dovus/UFC/PPV kategorileri Kirmizi Nokta oynaticisiyla aciliyor."
+  "versionCode": 279,
+  "versionName": "1.1.279",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.279.apk",
+  "releaseNotes": "Uydu Server içine JustSports World Live eklendi; İskoçya, Türkiye, İngiltere, F1, MotoGP, UEFA, Dünya Kupası, Nations League ve Boks/UFC kategorileri thedaddy canlı maç takviminden geliyor."
 }
