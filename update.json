@@ -1,6 +1,6 @@
 {
-  "versionCode": 283,
-  "versionName": "1.1.283",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.283.apk",
-  "releaseNotes": "DiziPal Sinema Server'a Aile, Aksiyon, Komedi, Korku, Romantik gibi 28 tür eklendi ve radyo yayınları koptuğunda otomatik yeniden bağlanıyor."
+  "versionCode": 285,
+  "versionName": "1.1.285",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.285.apk",
+  "releaseNotes": "Radyo yayınlarında kaynağın kendi tarayıcı kimliği kullanılarak Metro FM'in iki saniyede kesilmesi giderildi."
 }
