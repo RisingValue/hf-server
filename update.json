@@ -1,6 +1,6 @@
 {
-  "versionCode": 285,
-  "versionName": "1.1.285",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.285.apk",
-  "releaseNotes": "Radyo yayınlarında kaynağın kendi tarayıcı kimliği kullanılarak Metro FM'in iki saniyede kesilmesi giderildi."
+  "versionCode": 289,
+  "versionName": "1.1.289",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.289.apk",
+  "releaseNotes": "Kırmızı Nokta rengi, film görselleri ve kategori sayfalamaları düzeltildi."
 }
