@@ -1,6 +1,6 @@
 {
-  "versionCode": 292,
-  "versionName": "1.1.292",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.292.apk",
+  "versionCode": 291,
+  "versionName": "1.1.291",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.291.apk",
   "releaseNotes": "HipHip şifresi tuş takımıyla anında açılıyor, menüde video sayısı görünüyor ve açılmayan videolar yedek kaynakla oynatılıyor."
 }
