@@ -1,6 +1,6 @@
 {
-  "versionCode": 297,
-  "versionName": "1.1.297",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.297.apk",
-  "releaseNotes": "HipHip şifre ekranı ve video sayısı korunuyor."
+  "versionCode": 298,
+  "versionName": "1.1.298",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.298.apk",
+  "releaseNotes": "Dizi ve sinema sunucularındaki arama ekranı açılır açılmaz klavye otomatik geliyor."
 }
