@@ -1,6 +1,6 @@
 {
-  "versionCode": 298,
-  "versionName": "1.1.298",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.298.apk",
-  "releaseNotes": "Dizi ve sinema sunucularındaki arama ekranı açılır açılmaz klavye otomatik geliyor."
+  "versionCode": 311,
+  "versionName": "1.1.311",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.311.apk",
+  "releaseNotes": "kanal iyilestirmeleri yapildi"
 }
