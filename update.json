@@ -1,6 +1,6 @@
 {
-  "versionCode": 311,
-  "versionName": "1.1.311",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.311.apk",
-  "releaseNotes": "kanal iyilestirmeleri yapildi"
+  "versionCode": 316,
+  "versionName": "1.1.316",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.316.apk",
+  "releaseNotes": "Filmxy kategorisi IMDb film listeleri ve film arama ile yeniden eklendi."
 }
