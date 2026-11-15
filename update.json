@@ -1,6 +1,6 @@
 {
-  "versionCode": 318,
-  "versionName": "1.1.318",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.318.apk",
-  "releaseNotes": "Filmxy ana menüde Filmxy (Eng) olarak güncellendi ve başlamamış maçlarda bilgi ekranı gösteriliyor."
+  "versionCode": 319,
+  "versionName": "1.1.319",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.319.apk",
+  "releaseNotes": "Dikey ekranda açılışta kapanma hatası giderildi, güncelleme indirmesine yedek sunucu eklendi."
 }
