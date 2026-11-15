@@ -1,9 +1,9 @@
 {
-  "versionCode": 320,
-  "versionName": "1.1.320",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.320.apk",
-  "prevVersionCode": 319,
-  "prevVersionName": "1.1.319",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.319.apk",
-  "releaseNotes": "Ayarlara önceki sürüme dönme ve küçük tuğla kırma oyunu eklendi."
+  "versionCode": 321,
+  "versionName": "1.1.321",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.321.apk",
+  "prevVersionCode": 320,
+  "prevVersionName": "1.1.320",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.320.apk",
+  "releaseNotes": "Ana ekrana Oyun Alanı kategorisi eklendi ve Tuğla Kır oyunu buraya taşındı."
 }
