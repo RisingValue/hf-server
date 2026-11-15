@@ -1,9 +1,9 @@
 {
-  "versionCode": 321,
-  "versionName": "1.1.321",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.321.apk",
-  "prevVersionCode": 320,
-  "prevVersionName": "1.1.320",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.320.apk",
-  "releaseNotes": "Ana ekrana Oyun Alanı kategorisi eklendi ve Tuğla Kır oyunu buraya taşındı."
+  "versionCode": 322,
+  "versionName": "1.1.322",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.322.apk",
+  "prevVersionCode": 321,
+  "prevVersionName": "1.1.321",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.321.apk",
+  "releaseNotes": "Canlı TV'ye Canlı Maç Kanalları kategorisi eklendi; RoyalTV, Papazspor ve FreeHost aynı başlık altında toplandı."
 }
