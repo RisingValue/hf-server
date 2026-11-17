@@ -1,9 +1,9 @@
 {
-  "versionCode": 326,
-  "versionName": "1.1.326",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.326.apk",
-  "prevVersionCode": 325,
-  "prevVersionName": "1.1.325",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.325.apk",
-  "releaseNotes": "WorldSports Live Canlı Maç Kanalları'nın en altına alındı; FreeHost sitesi kapalıyken Türk kanalları listesi gösteriliyor."
+  "versionCode": 331,
+  "versionName": "1.1.331",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.331.apk",
+  "prevVersionCode": 330,
+  "prevVersionName": "1.1.330",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.330.apk",
+  "releaseNotes": "Kspor yerine Ft TV geldi; 31 spor kanalı sitedeki canlı yayın adreslerinden açılıyor."
 }
