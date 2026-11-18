@@ -1,9 +1,9 @@
 {
-  "versionCode": 334,
-  "versionName": "1.1.334",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.334.apk",
-  "prevVersionCode": 333,
-  "prevVersionName": "1.1.333",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.333.apk",
-  "releaseNotes": "Muzur Tivi kanalları açılırken daddylive.pk dizininden o an açık olan alan adı otomatik seçiliyor."
+  "versionCode": 335,
+  "versionName": "1.1.335",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.335.apk",
+  "prevVersionCode": 334,
+  "prevVersionName": "1.1.334",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.334.apk",
+  "releaseNotes": "HipHip şifre ekranında hiçbir harf önceden seçili gelmiyor; tuş takımı açık kalıyor ve şifreyi bilen kendi basıyor."
 }
