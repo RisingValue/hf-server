@@ -1,9 +1,9 @@
 {
-  "versionCode": 331,
-  "versionName": "1.1.331",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.331.apk",
-  "prevVersionCode": 330,
-  "prevVersionName": "1.1.330",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.330.apk",
-  "releaseNotes": "Kspor yerine Ft TV geldi; 31 spor kanalı sitedeki canlı yayın adreslerinden açılıyor."
+  "versionCode": 334,
+  "versionName": "1.1.334",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.334.apk",
+  "prevVersionCode": 333,
+  "prevVersionName": "1.1.333",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.333.apk",
+  "releaseNotes": "Muzur Tivi kanalları açılırken daddylive.pk dizininden o an açık olan alan adı otomatik seçiliyor."
 }
