@@ -1,9 +1,9 @@
 {
-  "versionCode": 335,
-  "versionName": "1.1.335",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.335.apk",
-  "prevVersionCode": 334,
-  "prevVersionName": "1.1.334",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.334.apk",
-  "releaseNotes": "HipHip şifre ekranında hiçbir harf önceden seçili gelmiyor; tuş takımı açık kalıyor ve şifreyi bilen kendi basıyor."
+  "versionCode": 340,
+  "versionName": "1.1.340",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.340.apk",
+  "prevVersionCode": 339,
+  "prevVersionName": "1.1.339",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.339.apk",
+  "releaseNotes": "WorldSports Live artık Live TV kanal kategorileri ve günün etkinlikleriyle açılıyor; seçilen kanal Muzur Tivi gibi oynatılıyor."
 }
