@@ -1,9 +1,9 @@
 {
-  "versionCode": 341,
-  "versionName": "1.1.341",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.341.apk",
-  "prevVersionCode": 340,
-  "prevVersionName": "1.1.340",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.340.apk",
-  "releaseNotes": "WorldSports Live etkinlikleri artık ana sayfadan yalnızca popüler kategorilerle geliyor: Türkiye, İskoçya, İngiltere, UFC, boks, UEFA kupaları, dünya kupası, National League, F1 ve MotoGP."
+  "versionCode": 342,
+  "versionName": "1.1.342",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.342.apk",
+  "prevVersionCode": 341,
+  "prevVersionName": "1.1.341",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.341.apk",
+  "releaseNotes": "Canlı maç kanalları hızlandırıldı: site alan adı tek seferde çözülüyor, engelli ağlarda DNS-over-HTTPS kullanılıyor ve yeni oynatıcı türleri de destekleniyor."
 }
