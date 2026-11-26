@@ -1,9 +1,9 @@
 {
-  "versionCode": 342,
-  "versionName": "1.1.342",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.342.apk",
-  "prevVersionCode": 341,
-  "prevVersionName": "1.1.341",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.341.apk",
-  "releaseNotes": "Canlı maç kanalları hızlandırıldı: site alan adı tek seferde çözülüyor, engelli ağlarda DNS-over-HTTPS kullanılıyor ve yeni oynatıcı türleri de destekleniyor."
+  "versionCode": 344,
+  "versionName": "1.1.344",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.344.apk",
+  "prevVersionCode": 343,
+  "prevVersionName": "1.1.343",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.343.apk",
+  "releaseNotes": "Player 4 (plus) yayınları PNG içine gömülü TS segmentleri çözülerek native oynatıcıda açılır."
 }
