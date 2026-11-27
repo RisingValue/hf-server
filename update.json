@@ -1,9 +1,9 @@
 {
-  "versionCode": 344,
-  "versionName": "1.1.344",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.344.apk",
-  "prevVersionCode": 343,
-  "prevVersionName": "1.1.343",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.343.apk",
-  "releaseNotes": "Player 4 (plus) yayınları PNG içine gömülü TS segmentleri çözülerek native oynatıcıda açılır."
+  "versionCode": 346,
+  "versionName": "1.1.346",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.346.apk",
+  "prevVersionCode": 345,
+  "prevVersionName": "1.1.345",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.345.apk",
+  "releaseNotes": "Sspor Server kanalları tam ekran site oynatıcısıyla açılıyor ve Kırmızı Nokta 3 artık gerçek yayını gösteriyor."
 }
