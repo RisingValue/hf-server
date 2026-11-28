@@ -1,9 +1,9 @@
 {
-  "versionCode": 346,
-  "versionName": "1.1.346",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.346.apk",
-  "prevVersionCode": 345,
-  "prevVersionName": "1.1.345",
-  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.345.apk",
-  "releaseNotes": "Sspor Server kanalları tam ekran site oynatıcısıyla açılıyor ve Kırmızı Nokta 3 artık gerçek yayını gösteriyor."
+  "versionCode": 347,
+  "versionName": "1.1.347",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.347.apk",
+  "prevVersionCode": 346,
+  "prevVersionName": "1.1.346",
+  "prevApkUrl": "https://cdn.jsdelivr.net/gh/RisingValue/hf-server@main/RVPortal-1.1.346.apk",
+  "releaseNotes": "Canlı TV'de Sinema kategorisi ile Canlı Maç Kanalları'ndaki Zeus Spor ve Papazspor kaldırıldı; CanliDizi Server'a siteyi uygulama içinde açan giriş eklendi."
 }
